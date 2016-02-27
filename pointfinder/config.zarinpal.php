@@ -1,0 +1,1 @@
+<?php	$MerchantID = 'XXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX';	$price = 1000;	$special_price = 2000;?>
